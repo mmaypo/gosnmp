@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/soniah/gosnmp"
+	"github.com/mmaypo/gosnmp"
 )
 
 func main() {
